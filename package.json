@@ -1,5 +1,5 @@
 {
-  "name": "user-crud-api",
+  "name": "image-upload-and-user-crud",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,7 +14,8 @@
   "dependencies": {
     "express": "^5.2.1",
     "mongodb": "^7.0.0",
-    "mongoose": "^9.1.2"
+    "mongoose": "^9.1.2",
+    "multer": "^2.0.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.11"
